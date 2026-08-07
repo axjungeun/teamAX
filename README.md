@@ -7,7 +7,7 @@ Git과 GitHub를 이용해 Issue, 브랜치, Pull Request, 리뷰, Merge 순서�
 ```text
 Issue 등록
   -> main 최신화
-  -> 작업 브랜치 생성
+  -> 작업 브랜치 생성 (**폴더로 생성**)
   -> 파일 수정
   -> add와 commit
   -> 작업 브랜치 push
@@ -57,7 +57,6 @@ test/<issue>-<work>
 
 ## 작업 문서
 
-- [주문 기능](ORDER.md)
 - [Issues](https://github.com/axjungeun/teamAX/issues)
 - [Pull Requests](https://github.com/axjungeun/teamAX/pulls)
 
